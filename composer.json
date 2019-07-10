@@ -4,6 +4,6 @@
     "description": "Add markdown based guides for your users.",
     "license": "GPL-2.0-or-later",
     "require": {
-        "erusev/parsedown": "^1.7.0"
+        "erusev/parsedown": "^1.7"
     }
 }
