@@ -4,6 +4,8 @@
     "description": "Add markdown based guides for your users.",
     "license": "GPL-2.0-or-later",
     "require": {
+        "php": "^7.1",
+        "drupal/core": "^8.7",
         "erusev/parsedown": "^1.7"
     }
 }
